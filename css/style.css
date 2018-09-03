@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css?family=Mitr);
+@import url(https://fonts.googleapis.com/css?family=Rubik);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+.header {
+	width: 100%;
+	height: 200px;
+	padding: 100px 0;
+	text-align: center;
+	font-family: Mitr, sans-serif;
+	border-radius: 5px;
+	background:url(https://images.pexels.com/photos/8819/warsaw.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) center center no-repeat;
+	background-size: cover;
+	color: white;
+}
+.top {
+	padding: 40px;
+}
+h1 {
+	font-size: 40px;
+	text-transform: uppercase;
+	color: #FF9900;
+}	
+body {
+	font-family: Rubik, sans-serif;
+	font-size: 17px;
+}
+.container {
+	max-width: 500px;
+	width: 70%;
+	margin: 20px auto;
+	text-align: justify;
+	padding: 10px;
+}
+#orange {
+	color: #FF9900;
+}	
+h2 {
+	color: #4D4DFF;
+	font-family: Raleway, sans-serif;
+}	
+.footer {
+	width: 100%;
+	height: 120px;
+	border-radius: 5px;
+	background-color: #4D4DFF;
+}	
+.foot {
+	padding: 40px 10px 20px 10px;
+	text-align: center;
+	color: white;
+}	
+a {
+	text-decoration: none;
+	color: #FF9900;
+}	
+a:hover {
+	color: #FFFF33;
+}	
